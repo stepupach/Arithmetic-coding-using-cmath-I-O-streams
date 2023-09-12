@@ -1,0 +1,8 @@
+﻿  arithmetic_class.cpp
+C:\Users\мария\Desktop\study 3\c++\курсовая\arithm_coding\arithmetic_coding\arithmetic_class.cpp(151,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\мария\Desktop\study 3\c++\курсовая\arithm_coding\arithmetic_coding\arithmetic_class.cpp(244,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\мария\Desktop\study 3\c++\курсовая\arithm_coding\arithmetic_coding\arithmetic_class.cpp(265,33): warning C4018: <=: несоответствие типов со знаком и без знака
+  main.cpp
+C:\Users\мария\Desktop\study 3\c++\курсовая\arithm_coding\arithmetic_coding\main.cpp(67,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  arithmetic_coding.vcxproj -> C:\Users\мария\Desktop\study 3\c++\курсовая\arithm_coding\x64\Debug\arithmetic_coding.exe
